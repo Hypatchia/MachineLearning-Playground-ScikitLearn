@@ -1,4 +1,10 @@
-## Machine Learning Projects Repository
+
+## Comprehensive Overview of Data Science Projects:
+
+In this diverse collection of data science projects, various aspects of analytics and machine learning were applied.
+By utilizing a range of techniques and tools to extract meaningful insights, Each project focuses on a unique facet of data science, contributing to a holistic understanding of data-driven decision-making.
+
+From Gaining in-depth insights and identifying patterns within the data through comprehensive exploration using visualization, summary statistics, and correlation analysis, to Exploring fundamental techniques in dimensionality reduction and feature engineering, to the modeling of various problems in cybersecurity, mental health, to urban analysis.
 
 * This repository contains various machine learning projects I've worked on since 2020.
 * They cover a range of topics and techniques, demonstrating different aspects of machine learning and data analysis.
@@ -67,10 +73,9 @@
 
 
 
-## Contact:
-Let's connect and explore how my skills and expertise in Machine Learning fit your team.
+## Contact
  Feel free to reach out to me on LinkedIn or through email & don't forget to visit my portfolio.
  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiabelhaddad/)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flgat&logo=gmail)](mailto:samiamagbelhaddad@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-white?style=flat&logo=website)](https://your-portfolio-url-here.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiabelhaddad/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flgat&logo=gmail)](mailto:samiamagbelhaddad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-white?style=flat&logo=website)](https://sambelh.azurewebsites.net/)
